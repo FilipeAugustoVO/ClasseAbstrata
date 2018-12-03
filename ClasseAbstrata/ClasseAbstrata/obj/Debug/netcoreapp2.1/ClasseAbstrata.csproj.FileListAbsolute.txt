@@ -1,0 +1,11 @@
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.1\ClasseAbstrata.deps.json
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.1\ClasseAbstrata.runtimeconfig.json
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.1\ClasseAbstrata.runtimeconfig.dev.json
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.1\ClasseAbstrata.dll
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.1\ClasseAbstrata.pdb
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.1\ClasseAbstrata.csprojAssemblyReference.cache
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.1\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.1\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.1\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.1\ClasseAbstrata.dll
+C:\Users\Convidado\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.1\ClasseAbstrata.pdb
